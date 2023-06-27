@@ -1,5 +1,7 @@
-# Interactive Expenses Tracker-Demo
+# Expenses Tracker-Demo
 
-## using React
+## Made with: using React.Js.
 
-##### Maxmli Projects
+### Live Link: <a href="https://ahmedehab-sg.github.io/Expenses-Tracker">Expenses Tracker</a>
+
+###### Maxmli Projects.
